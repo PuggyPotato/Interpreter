@@ -18,6 +18,13 @@ const (
 	//OPERATOR
 	ASSIGN = "="
 	PLUS = "+"
+	MINUS = "-"
+	BANG = "!"
+	ASTERISK = "*"
+	SLASH = "/"
+	
+	LT = "<"
+	GT = ">"
 
 	//DELIMETERS
 	COMMA = ","
@@ -32,6 +39,9 @@ const (
 	//KEYWORD
 	FUNCTION = "FUNCTION"
 	LET = "LET"
+
+
+
 
 )
 
